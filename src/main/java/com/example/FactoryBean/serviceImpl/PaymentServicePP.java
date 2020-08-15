@@ -1,6 +1,6 @@
-package com.example.demo.serviceImpl;
+package com.example.FactoryBean.serviceImpl;
 
-import com.example.demo.service.PaymentService;
+import com.example.FactoryBean.service.PaymentService;
 import org.springframework.stereotype.Service;
 
 @Service("PhonePay")

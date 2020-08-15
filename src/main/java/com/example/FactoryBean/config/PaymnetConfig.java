@@ -1,6 +1,6 @@
-package com.example.demo.config;
+package com.example.FactoryBean.config;
 
-import com.example.demo.registry.PaymentRegistry;
+import com.example.FactoryBean.registry.PaymentRegistry;
 import org.springframework.beans.factory.FactoryBean;
 import org.springframework.beans.factory.config.ServiceLocatorFactoryBean;
 import org.springframework.context.annotation.Bean;

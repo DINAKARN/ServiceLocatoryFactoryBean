@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package com.example.FactoryBean.controller;
 
-import com.example.demo.model.Payment;
-import com.example.demo.registry.PaymentRegistry;
+import com.example.FactoryBean.model.Payment;
+import com.example.FactoryBean.registry.PaymentRegistry;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

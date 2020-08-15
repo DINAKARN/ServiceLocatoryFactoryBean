@@ -1,6 +1,6 @@
-package com.example.demo.registry;
+package com.example.FactoryBean.registry;
 
-import com.example.demo.service.PaymentService;
+import com.example.FactoryBean.service.PaymentService;
 import org.springframework.stereotype.Component;
 
 @Component

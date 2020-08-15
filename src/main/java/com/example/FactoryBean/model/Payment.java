@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.example.FactoryBean.model;
 
 public class Payment {
     private int amount;
